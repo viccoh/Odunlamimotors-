@@ -1,0 +1,1 @@
+No Content: http://www.dieuautos.com/assets/bxslider/jquery.bxslider.js
